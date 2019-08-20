@@ -3,7 +3,7 @@ class Dog
     @this_dogs_name  = dog_name
   end
  
- fido = Dog.new 
+  fido = Dog.new 
  
  
   def bark
