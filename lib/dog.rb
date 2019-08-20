@@ -5,6 +5,7 @@ class Dog
  
   fido = Dog.new 
   fido.name= "fido"
+  fido.name
  
   def bark
     puts "woof!"
